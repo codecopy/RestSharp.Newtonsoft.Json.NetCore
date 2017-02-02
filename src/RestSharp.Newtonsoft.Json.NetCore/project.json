@@ -14,6 +14,8 @@
   "authors": [
     "Bernardo Esbérard"
   ],
+  "title": "RestSharp.Newtonsoft.Json.NetCore",
+  "description": "A Newtonsoft.Json parser for RestSharp.NetCore",
   "packOptions": {
     "owners": [
       "Alterdata Software"
