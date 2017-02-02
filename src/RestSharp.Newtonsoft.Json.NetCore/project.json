@@ -31,8 +31,9 @@
       "netcore",
       "restsharp",
       "newtonsoft"
-    ]
+    ],
   },
+  "projectUrl": "https://github.com/Alterdata/RestSharp.Newtonsoft.Json.NetCore",
   "tooling": {
     "defaultNamespace": "RestSharp.Newtonsoft.Json.NetCore"
   }
