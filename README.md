@@ -3,7 +3,6 @@ A port of RestSharp.Newtonsoft.Json for .net core (https://github.com/adamfisher
 
 [![Nuget](https://img.shields.io/nuget/v/RestSharp.Newtonsoft.Json.NetCore.svg)](https://nuget.org/packages/RestSharp.Newtonsoft.Json.NetCore)
 [![Build status](https://ci.appveyor.com/api/projects/status/br208opekx87xj8x?svg=true)](https://ci.appveyor.com/project/bernardbr/restsharp-newtonsoft-json-netcore)
-[![Coverage Status](https://coveralls.io/repos/github/Alterdata/RestSharp.Newtonsoft.Json.NetCore/badge.svg)](https://coveralls.io/github/Alterdata/RestSharp.Newtonsoft.Json.NetCore)
 
 
 See [Changelog](https://github.com/Alterdata/RestSharp.Newtonsoft.Json.NetCore/wiki/Changelog) for more details
