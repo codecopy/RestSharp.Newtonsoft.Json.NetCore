@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0-*",
+    "testRunner": "nunit",
+    "dependencies": {
+        "NUnit": "3.6.0",
+        "NUnit.Runners": "3.6.0",
+        "dotnet-test-nunit": "3.4.0-beta-3",
+        "RestSharp.Newtonsoft.Json.NetCore": {
+            "target": "project"
+        }
+    },
+
+    "frameworks": {
+        "netcoreapp1.0": {
+            "dependencies": {
+                "Microsoft.NETCore.App": {
+                    "type": "platform",
+                    "version": "1.0.1"
+                }
+            }
+        }
+    },
+    "buildOptions": {
+        "debugType": "portable"
+    },
+    "tooling": {
+        "defaultNamespace": "RestSharp.Newtonsoft.Json.NetCore.Tests"
+    }
+}

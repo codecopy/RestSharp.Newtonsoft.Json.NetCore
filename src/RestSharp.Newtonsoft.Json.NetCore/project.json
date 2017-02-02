@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "NETStandard.Library": "1.6.0",
+    "Newtonsoft.Json": "9.0.1",
+    "RestSharp.NetCore": "105.2.3"
+  },
+  "frameworks": {
+    "netstandard1.6": {}
+  },
+  "buildOptions": {
+    "debugType": "portable"
+  },
+  "authors": [
+    "Bernardo Esbérard"
+  ],
+  "packOptions": {
+    "owners": [
+      "Alterdata Software"
+    ],
+    "summary": "A Newtonsoft.Json parser for RestSharp.NetCore",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Alterdata/RestSharp.Newtonsoft.Json.NetCore"
+    },
+    "tags": [
+      "json",
+      "rest",
+      "netcore",
+      "restsharp",
+      "newtonsoft"
+    ]
+  },
+  "tooling": {
+    "defaultNamespace": "RestSharp.Newtonsoft.Json.NetCore"
+  }
+}
